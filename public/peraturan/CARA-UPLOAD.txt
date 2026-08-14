@@ -1,0 +1,30 @@
+CARA UPLOAD FILE PERATURAN LOMBA
+=================================
+
+Folder ini khusus untuk menyimpan file PDF peraturan & tata cara
+pelaksanaan masing-masing lomba.
+
+LANGKAH:
+1. Buat file PDF berisi peraturan & tata cara lomba.
+2. Simpan/Pindahkan file PDF ke folder ini (public/peraturan/).
+3. Beri nama file SESUAI dengan daftar di bawah ini (huruf kecil,
+   pakai tanda hubung, akhir dengan .pdf).
+
+DAFTAR NAMA FILE YANG DIPAKAI:
+- pes-2026.pdf              -> Kompetisi PES 2026
+- tebak-warna-kaos-kaki.pdf -> Tebak Warna Kaos Kaki
+- lomba-pakai-apd.pdf       -> Lomba Pakai APD
+- lomba-makan-kerupuk.pdf   -> Lomba Makan Kerupuk
+- estafet-air-tepung.pdf    -> Estafet Air / Tepung
+- ketangkasan-terong-timun.pdf -> Ketangkasan Terong / Timun
+- estafet-balon.pdf         -> Estafet Balon
+- voli-terpal-daster.pdf    -> Turnamen Voli Terpal + Daster
+- futsal-sarung.pdf         -> Futsal Sarung
+
+Jika file belum di-upload, tombol "Lihat PDF" tidak akan muncul di
+aplikasi. Begitu file tersedia dengan nama yang tepat, tombol akan
+muncul otomatis.
+
+CONTOH:
+  public/peraturan/pes-2026.pdf
+  public/peraturan/futsal-sarung.pdf
